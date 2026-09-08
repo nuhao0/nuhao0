@@ -23,6 +23,6 @@ Developed a native Flutter mobile dashboard to map live cloud telemetry streams 
 Language Validation: Duolingo English Test (DET) Overall Score: 115 (CEFR B2 Level)
 Core Approach: Committed to structural engineering principles, writing scalable codebases, and continuous technology assimilation.
 Professional Space: My LinkedIn Profile (http://linkedin.com/in/nuha-63674634a)
-Get In Touch: nuhaabdulkarim04@gmail.com
+Get In Touch:nuhaabdulkarim04@gmail.com
 
 
